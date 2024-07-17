@@ -1,1 +1,1 @@
-pip install pandas scikit-learn matplotlib seaborn streamlit joblib requests
+pandas scikit-learn matplotlib seaborn streamlit joblib requests
